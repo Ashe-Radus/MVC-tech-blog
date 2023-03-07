@@ -1,3 +1,4 @@
+-- Active: 1669778322899@@127.0.0.1@3306@books_db
 DROP DATABASE IF EXISTS blog_db;
 
 CREATE DATABASE blog_db; 
